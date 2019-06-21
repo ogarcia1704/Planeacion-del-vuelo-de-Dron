@@ -78,3 +78,11 @@ https://www.aerial-insights.co/blog/como-planificar-capturas-de-dron/
 https://norbertrovira.com/python-y-drones/
 
 https://github.com/dronekit/dronekit-python 
+
+
+
+
+
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/ogarcia1704/Planeacion-del-vuelo-de-Dron/master/1.png)
+![PalabrasdelTextoAlternativo](https://raw.githubusercontent.com/ogarcia1704/Planeacion-del-vuelo-de-Dron/master/2.png)
+![PalabrasdelTextoAlternativ](https://raw.githubusercontent.com/ogarcia1704/Planeacion-del-vuelo-de-Dron/master/3.png)
